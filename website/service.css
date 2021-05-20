@@ -1,0 +1,147 @@
+ul {
+float: inherit;
+list-style-type: none;
+margin-top: 25px;
+}
+ul li{
+
+background-color: black;
+
+
+display: inline-block;
+}
+ul li a {
+	text-decoration:none;
+	color: #fff;
+	padding: 5px 25px;
+	border: 1px solid #fff;
+
+	 
+
+
+}
+ul li a:hover{
+	background-color: green;
+	color: #000;
+	cursor: pointer;
+}
+ul li.active a{
+	background-color: green;
+	color: #000;
+}
+
+
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(pic3.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff !important;
+}
+.services
+{
+    margin: 90px auto;
+    text-align: center;
+}
+h1
+{
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+h1:after
+{
+    content: '';
+    background: white;
+    display: block;
+    width: 150px;
+    height: 3px;
+    margin: 10px auto;
+}
+.icon
+{
+    font-size: 40px;
+    margin: 20px auto;
+    padding: 20px;
+    height: 80px;
+    width: 80px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+.col-md-3:hover{
+    box-shadow: 5px 7px 9px -3px rgba(255,255,255,0.5);
+    cursor: pointer;
+}
+
+
+.services
+{
+    margin: 90px auto;
+    text-align: center;
+}
+h1
+{
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+h1:after
+{
+    content: '';
+    background: white;
+    display: block;
+    width: 150px;
+    height: 3px;
+    margin: 10px auto;
+}
+.icon
+{
+    font-size: 40px;
+    margin: 20px auto;
+    padding: 20px;
+    height: 80px;
+    width: 80px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+.col-md-3:hover{
+    box-shadow: 5px 7px 9px -3px rgba(255,255,255,0.5);
+    cursor: pointer;
+}
+
+
+
+
+.services
+{
+    margin-top; 20px;
+    margin-bottom: 30px;    
+}
+.service-box
+{
+    box-shadow: 0 0 4px 0 #ffa709;
+    padding: 15px;
+    position: relative;
+}
+.fa
+{
+    font-size: 40px !important;
+    margin-bottom: 15px;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+p
+{
+    text-align: justify;
+    font-family: sans-serif;
+    font-stretch: semi-condensed;
+    font-size: 20px;
+}
+
+}
+span
+{
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    -webkit-background-clip: text;
+    color: transparent;    
+}
+
